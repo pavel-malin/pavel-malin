@@ -5,6 +5,7 @@
 - 💞️ I’m looking to collaborate on https://www.instagram.com/@malinrootgames/
 - 💞️ I’m looking to collaborate on https://www.youtube.com/channel/UCSLrwIHiXj_N2cfmXejfkqQ/featured
 - 📫 How to reach me  https://www.instagram.com/@malinrootgames/ and https://www.youtube.com/channel/UCSLrwIHiXj_N2cfmXejfkqQ/featured or kurchevskijpavel@gmail.com
+- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S445WEA)
 
 <!---
 pavel-malin/pavel-malin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

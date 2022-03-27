@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @pavel-malin
 - 👀 I’m interested in cpp, java/kotlin and python. Gamedev
 - 🌱 I’m currently learning cpp and unreal engine .
-- 💞️ I’m looking to collaborate on https://www.instagram.com/@malin_root/
-- 💞️ I’m looking to collaborate on https://www.instagram.com/@malinrootgames/
 - 💞️ I’m looking to collaborate on https://www.youtube.com/channel/UCSLrwIHiXj_N2cfmXejfkqQ/featured
 - 📫 How to reach me  https://www.instagram.com/@malinrootgames/ and https://www.youtube.com/channel/UCSLrwIHiXj_N2cfmXejfkqQ/featured or kurchevskijpavel@gmail.com, malinrootgames@gmail.com
 - 💸💸💸 You can donate for development and support of the programmer:  https://boosty.to/malinroot
